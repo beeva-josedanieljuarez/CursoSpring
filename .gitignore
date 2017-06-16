@@ -1,0 +1,13 @@
+# eclipse
+.metadata/
+.recommenders/
+.DS_STORE
+.classpath
+.project
+
+# eclipse
+./bakendninja/metadata/
+.bakendninja/recommenders/
+.bakendninja/DS_STORE
+.bakendninja/classpath
+.bakendninja/project
