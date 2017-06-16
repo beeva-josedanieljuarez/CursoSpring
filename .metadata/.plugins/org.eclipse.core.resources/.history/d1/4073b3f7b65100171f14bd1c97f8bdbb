@@ -1,0 +1,12 @@
+package com.udemy.backendninja.controller;
+
+import org.springframework.stereotype.Controller;
+
+@Controller
+public class HelloWorldController {
+	
+	public String helloWorld(){
+		return "helloworld";
+	}
+
+}
